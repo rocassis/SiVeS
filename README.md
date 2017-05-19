@@ -4,10 +4,10 @@ http://www.digitalarte.com.br
 
 Recursos do sistema
 ----------------------------------------------------------------------------------------------------------------------------------------
-1 - Cadastro de produtos( nome, unidade e estoque) -- ok alterado
+1 - Cadastro de produtos( nome, unidade e estoque) -- ok alterado 
 2 - Dedução de quantidade de estoque em tempo de consumo -- novo
 3 - Cadastro, edição e exclusão de clientes --- ok original
-4 - Cadastro, edição e exclusão de vendedores -- em construção
+4 - Cadastro, edição e exclusão de vendedores -- ok alterado
 5 - Vendas (cadastro, edição e exclusão de vendas e produtos) -- ok alterado
 6 - Adição e subtração da quantidade de produto na venda -- novo
 7 - Cadastro, edição e exclusão de serviços -- ok original
